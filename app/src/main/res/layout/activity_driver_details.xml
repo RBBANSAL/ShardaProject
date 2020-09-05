@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DriverDetails">
+
+    <TextView
+        android:id="@+id/nameview"
+        android:layout_width="130dp"
+        android:layout_height="59dp"
+
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="28dp" />
+
+    <TextView
+        android:id="@+id/carname"
+        android:layout_width="129dp"
+        android:layout_height="67dp"
+
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="106dp" />
+
+    <TextView
+        android:id="@+id/locationview"
+        android:layout_width="133dp"
+        android:layout_height="63dp"
+
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="291dp" />
+
+    <TextView
+        android:id="@+id/genderview"
+        android:layout_width="133dp"
+        android:layout_height="77dp"
+
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="196dp" />
+
+    <TextView
+        android:id="@+id/sysidview"
+        android:layout_width="131dp"
+        android:layout_height="69dp"
+
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="375dp" />
+
+    <Button
+        android:id="@+id/buttonview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button" />
+</LinearLayout>

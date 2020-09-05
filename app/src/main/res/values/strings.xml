@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="registration_form">Registration Form</string>ytttt
+    <string name="sharda_university">Sharda University</string>
+    <string name="carpooling">CARPOOLING</string>
+    <string name="car_model">Car Model</string>
+    <string name="car_number">Car Number</string>
+    <string name="sharda_system_id">Sharda System ID</string>
+    <string name="location">Location</string>
+    <string name="sharda_sysytem_id">Sharda Sysytem ID</string>
+    <string name="button">Button</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="gender">Gender</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm-Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="e_mail">E-Mail</string>
+
+</resources>
